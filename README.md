@@ -88,16 +88,16 @@ Creează o pagină web care conține:
    
 5. Adaugă fișierele index.html și style.css in staging, apoi salvează modificările:
 
- ```bash
+```bash
 git add .
 git commit -m "Laborator 1 – HTML & CSS final"
-    ```
+ ```
 
 6. Încarcă codul pe GitHub:
 
- ```bash
+```bash
 git push
-    ```
+```
 
 ---
 
