@@ -65,7 +65,7 @@ Creează o pagină web care conține:
   gap: 30px;
   flex-wrap: wrap; /* pentru responsiveness */
 }
-
+```
 ---
 
 ## Încărcarea temei
