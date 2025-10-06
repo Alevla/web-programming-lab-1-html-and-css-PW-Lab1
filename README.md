@@ -80,4 +80,37 @@ Creează o pagină web care conține:
    git clone <linkul-tău-de-repo>
     ```
 
+4. Intră în folderul proiectului:
+
+   ```bash
+   cd <folderul tău>
+   ```
+   
+5. Adaugă fișierele index.html și style.css in staging, apoi salvează modificările:
+
+ ```bash
+git add .
+git commit -m "Laborator 1 – HTML & CSS final"
+    ```
+
+6. Încarcă codul pe GitHub:
+
+ ```bash
+git push
+    ```
+
+---
+
+## (Opțional) Publicarea paginii pe GitHub Pages
+
+După ce ai urcat codul pe GitHub, poți să îți publici pagina în doar câțiva pași simpli:
+
+1. Mergi pe pagina repository-ului tău (exemplu: `PW-Lab1-username`).
+2. Accesează **Settings → Pages** (din bara laterală stângă).
+3. În secțiunea **“Build and deployment”**, setează:
+   - **Source:** `Deploy from a branch`
+   - **Branch:** `main`
+   - **Folder:** `/ (root)`
+4. Apasă **Save**.
+5. După câteva secunde, GitHub va genera automat un link public pe care îl poți accesa de oriunde și pe care îl poți trimite oricui!
 
