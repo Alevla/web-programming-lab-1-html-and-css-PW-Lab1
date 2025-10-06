@@ -4,7 +4,7 @@
 
 ---
 
-## 📚 Descriere generală
+## Descriere generală
 Acest laborator reprezintă prima introducere practică în **dezvoltarea web**.  
 Scopul este să înțelegi cum se construiește o pagină web de la zero, cum se structurează conținutul folosind **HTML**, și cum se aplică stiluri și layout-uri folosind **CSS**.
 
@@ -12,7 +12,7 @@ La finalul laboratorului, vei avea o **pagină web pentru CV-ul tău**!
 
 ---
 
-## 🎯 Obiectivele primului laborator
+## Obiectivele primului laborator
 - Înțelegerea structurii unui fișier HTML (`<html>`, `<head>`, `<body>`).  
 - Utilizarea tagurilor: `<h1>`, `<p>`, `<ul>`.  
 - Aplicarea regulilor CSS pentru culori, fonturi, margin, padding, etc..  
@@ -20,9 +20,9 @@ La finalul laboratorului, vei avea o **pagină web pentru CV-ul tău**!
 
 ---
 
-## 🧩 Exercițiul: Creează o pagină web pentru CV-ul tău
+## Exercițiul: Creează o pagină web pentru CV-ul tău
 
-### 🎯 Scop
+### Scop
 Să aplici toate conceptele învățate (HTML, CSS, layout) pentru a crea o pagină web de prezentare personală, adică un mini CV online care să reflecte stilul tău.
 
 ---
@@ -30,7 +30,7 @@ Să aplici toate conceptele învățate (HTML, CSS, layout) pentru a crea o pagi
 ### 🔧 Cerințe
 Creează o pagină web care conține:
 
-#### 🔹 Structură HTML
+#### Structură HTML
 - un **header**
   - care să conțină numele, o scurtă descriere și o **imagine de profil**
 - o **secțiune principală** cu
@@ -43,7 +43,7 @@ Creează o pagină web care conține:
   - pagina de social media
 - un **footer** simplu cu numele tău și anul curent.  
 
-#### 🔹 Stilizare CSS
+#### Stilizare CSS
 - un fișier CSS separat (`style.css`);  
 - fundal deschis și o culoare principală pentru accente;  
 - font modern (ex: *Poppins*, *Roboto*);  
@@ -51,12 +51,12 @@ Creează o pagină web care conține:
 - listă de abilități stilizată (fără bullet points, poți folosi emoji-uri);
 - imaginea de profil să fie rotundă, cu o bordură subțire colorată și efect de shadow;
 
-#### 🔹 Layout
+#### Layout
 - organizează conținutul principal folosind `flexbox`;  
 - imaginea și descrierea să fie afișate una lângă alta pe desktop;  
 - pe ecrane mici (mobil), elementele trebuie să se aranjeze vertical.  
 
-💡 *Hint:* 
+*Hint:* 
 ```css
 .main {
   display: flex;
@@ -65,3 +65,19 @@ Creează o pagină web care conține:
   gap: 30px;
   flex-wrap: wrap; /* pentru responsiveness */
 }
+
+---
+
+## Încărcarea temei
+
+1. Acceptă invitația GitHub Classroom:  
+   - [https://classroom.github.com/a/3xOgoGOr](https://classroom.github.com/a/3xOgoGOr)
+
+2. După ce accepți invitația, GitHub va crea automat un **repository personal** pentru tine.  
+
+3. Clonează repository-ul pe calculatorul tău:  
+   ```bash
+   git clone <linkul-tău-de-repo>
+    ```
+
+
