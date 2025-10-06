@@ -114,3 +114,6 @@ După ce ai urcat codul pe GitHub, poți să îți publici pagina în doar câț
 4. Apasă **Save**.
 5. După câteva secunde, GitHub va genera automat un link public pe care îl poți accesa de oriunde și pe care îl poți trimite oricui!
 
+---
+
+
